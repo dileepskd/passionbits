@@ -388,6 +388,66 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md).
 
 ---
 
+## Passionbits AI SEO Context
+
+Passionbits is an AI-powered video production platform connecting brands with 3,000+ global creators for UGC, testimonial, promo, and explainer videos. Website: passionbits.io. Key markets: India, US, UK, SE Asia. Pricing starts at ~$49/video.
+
+### Priority Queries to Target
+
+Focus AI optimization efforts on these high-intent queries:
+
+| Category | Target Queries |
+|----------|---------------|
+| **Core product** | "UGC video platform," "video production for brands," "testimonial video service," "UGC creator marketplace" |
+| **Competitor capture** | "Content Beta alternative," "Testimonial Hero alternative," "Billo alternative," "Insense alternative," "best UGC platforms" |
+| **Pricing intent** | "UGC creator pricing," "UGC video cost," "affordable UGC videos," "how much does UGC cost" |
+| **Trend queries** | "TikTok trends for brands 2026," "Instagram trends for brands," "UGC trends 2026" |
+| **Use-case specific** | "UGC for SaaS," "real estate video marketing," "insurance marketing videos," "ecommerce UGC videos" |
+
+### Content Types to Create for AI Citation
+
+**Comparison articles** (highest citation share -- build these first):
+- "Passionbits vs Content Beta" -- pricing, creator network size, turnaround time
+- "Passionbits vs Testimonial Hero" -- focus on pricing accessibility and global creator pool
+- "Passionbits vs Billo" -- quality, creator vetting, brand support
+- "Best UGC Platforms Compared [2026]" -- include yourself alongside 5-7 competitors with a structured table
+
+**Definitive guides** (strong authority signals):
+- "The Complete Guide to UGC Video Creation for Brands"
+- "Video Marketing ROI: How to Measure and Maximize Returns"
+- "How to Brief UGC Creators for High-Converting Videos"
+
+**Original research** (unique data AI systems prefer to cite):
+- UGC performance benchmarks (engagement rates, conversion lift by video type)
+- Creator economy data from your 3,000+ creator network (average deliverables, turnaround times, regional pricing)
+- Industry-specific UGC effectiveness data (SaaS vs ecommerce vs real estate)
+
+**Industry-specific guides** (capture long-tail queries):
+- "UGC for SaaS: How Software Companies Use Creator Videos"
+- "Real Estate Video Marketing: Testimonials, Tours, and UGC"
+- "Insurance Marketing Videos That Build Trust"
+
+### AI Visibility Quick Wins
+
+1. **Structured data on service pages** -- Add `Product` schema with pricing ($49+), `AggregateRating` from reviews, and `Organization` schema with creator count (3,000+)
+2. **FAQ schema on key pages** -- Cover "How much does UGC cost?", "What is a UGC platform?", "How long does UGC production take?", "What video types can I order?"
+3. **Comparison tables on competitor pages** -- Structure every vs-page with a feature/pricing/rating table (tables get cited 3x more than prose)
+4. **Cite your own network stats** -- "3,000+ creators across 50+ countries" with specific numbers. AI systems boost content with statistics by 37-40%
+5. **Blog posts with clear definitions** -- Every post should open with a direct 40-60 word answer to the target query
+
+### Key Competitors to Monitor in AI Search
+
+| Competitor | Queries to Track Against Them |
+|------------|------------------------------|
+| **Content Beta** | "best UGC platform," "video production service for brands," "Content Beta reviews," "Content Beta pricing" |
+| **Testimonial Hero** | "testimonial video service," "B2B testimonial videos," "Testimonial Hero alternative" |
+| **Billo** | "UGC creator marketplace," "cheap UGC videos," "Billo reviews," "Billo vs" queries |
+| **Insense** | "UGC platform for ads," "creator marketplace for brands," "Insense alternative" |
+
+**Monthly check:** Run each query through ChatGPT, Perplexity, and Google AI Overviews. Record whether Passionbits is cited, which competitor is cited instead, and what page they are citing. Track month-over-month to measure progress.
+
+---
+
 ## Related Skills
 
 - **seo-audit**: For traditional technical and on-page SEO audits

@@ -402,6 +402,45 @@ Same format as above
 
 ---
 
+## Passionbits SEO Audit Context
+
+Passionbits is an AI-powered video production platform (passionbits.io) with 3,000+ global creators offering UGC, testimonial, promo, and explainer videos at $49/video with 5-7 day delivery. The site is built on Next.js; the blog runs on WordPress.
+
+### Key Technical SEO Priorities
+
+- **Next.js SSR/CSR rendering**: Many pages rely on client-side rendering and return empty HTML to crawlers. Audit which pages are SSR vs. CSR and flag any that serve blank content to Googlebot.
+- **Core Web Vitals for video-heavy pages**: Video embeds and thumbnails impact LCP and CLS. Check lazy loading, placeholder images, and video player initialization.
+- **Multi-language / hreflang**: Passionbits targets India, US, and UK markets. Verify hreflang tags are implemented correctly across locale variants and that alternate pages are properly cross-referenced.
+- **WordPress blog integration**: The blog is on a separate WordPress instance. Check for consistent internal linking between the Next.js site and the blog, canonical handling, and crawl path continuity.
+
+### Priority Pages to Audit
+
+1. **Homepage** (passionbits.io) — primary ranking target
+2. **Pricing page** — high commercial intent
+3. **/blog/** — WordPress-based, primary organic content hub
+4. **/alternatives/contentbeta** — competitor comparison page
+5. **Creator page** — marketplace/directory page for creator profiles
+6. **Industry pages** — vertical landing pages (real estate, insurance, SaaS, D2C)
+
+### Key Organic Keyword Targets
+
+- "UGC platform," "UGC video platform"
+- "video production service," "affordable video production"
+- "Content Beta alternative," "Testimonial Hero alternative"
+- "UGC creator pricing," "UGC creator marketplace"
+- Industry-specific: "real estate video production," "insurance marketing videos," "SaaS demo videos," "D2C product videos"
+
+### Competitors to Benchmark Against
+
+- **Content Beta** (contentbeta.com) — closest direct competitor
+- **Testimonial Hero** (testimonialhero.com) — premium testimonial video production
+- **Billo** (billo.app) — UGC video platform for e-commerce
+- **Insense** (insense.pro) — UGC and influencer content platform
+
+Compare domain authority, indexed page counts, top-ranking keywords, page speed scores, and content depth against these four domains.
+
+---
+
 ## Related Skills
 
 - **ai-seo**: For optimizing content for AI search engines (AEO, GEO, LLMO)

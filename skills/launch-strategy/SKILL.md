@@ -343,6 +343,37 @@ Even small changelog updates remind customers your product is evolving. This bui
 
 ---
 
+## Passionbits Launch Context
+
+Passionbits is an AI-powered video production platform (passionbits.io) with 3,000+ global creators. UGC, testimonial, promo, and explainer videos at $49/video, 5-7 day delivery. Next.js site, WordPress blog. Target: enterprise marketers, SaaS, D2C, real estate, insurance.
+
+### Products and Features to Launch
+
+- **New creator verticals** — specialized creator pools for specific industries (real estate agents, insurance explainers, SaaS demos)
+- **New language support** — expanding beyond English to Hindi, regional Indian languages, and other markets
+- **Industry-specific packages** — bundled video packages tailored to real estate, insurance, SaaS, or D2C use cases
+- **AI-powered brief generation** — use AI to help customers write better creative briefs, reducing revision cycles
+- **Enterprise plans** — higher volume tiers with dedicated account management, brand guidelines enforcement, and SLA guarantees
+- **Creator tools** — improved creator dashboard, earnings analytics, portfolio features, and skill-matching algorithms
+
+### Launch Channels
+
+- **Email list** — existing customers and prospects; segment by industry vertical and usage tier
+- **Blog audience** — WordPress blog for SEO-driven announcements, case studies, and feature deep-dives
+- **LinkedIn** — Roshan Agarwal's personal profile (founder-led content) + Passionbits company page; strongest organic channel for B2B reach
+- **Product Hunt** — for major platform launches and milestone features (use the Product Hunt section above)
+- **Social media trend tie-ins** — connect launches to trending UGC and video marketing conversations on X/Twitter and LinkedIn
+- **Creator community** — leverage the 3,000+ creator network to amplify launches through their own channels
+
+### Launch Audiences
+
+- **Existing platform users** — for feature launches (AI briefs, enterprise plans, creator tools); announce via email + in-app notification
+- **New market segments** — for vertical expansion (real estate, insurance); target via LinkedIn ads, industry-specific content, and borrowed channels (industry podcasts, newsletters)
+- **Creator community** — for creator-side features (tools, new verticals, language support); announce via creator dashboard, email, and creator Slack/WhatsApp groups
+- **Competitor users** — for differentiation launches (pricing, speed, quality); target via comparison pages, paid search on competitor terms, and G2/Capterra presence
+
+---
+
 ## Related Skills
 
 - **marketing-ideas**: For additional launch tactics (#22 Product Hunt, #23 Early Access Referrals)

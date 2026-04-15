@@ -354,6 +354,76 @@ Visual or structured representation of how content interconnects.
 
 ---
 
+## Passionbits Content Strategy Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators, producing UGC, testimonial, promo, and explainer videos. Target audience: enterprise marketers, SaaS, D2C, real estate, insurance, and fintech companies.
+
+### Content Pillars (% Allocation)
+
+| Pillar | Allocation | Focus |
+|--------|-----------|-------|
+| Trend Reports | 30% | Monthly TikTok/Instagram trends for consumer and professional brands, US and India markets |
+| UGC Education | 25% | What UGC is, how to create it, mastering UGC, creator guides, best practices |
+| Industry Guides | 20% | Vertical-specific marketing (real estate email, insurance Facebook ads, fintech marketing) |
+| Case Studies & Success Stories | 15% | Customer wins like Vibiz.ai (10K customers without social), Parakeet AI (500M views in 12 months) |
+| Competitor Comparisons | 10% | Alternative pages (Content Beta, Testimonial Hero, Billo) and vs-style comparisons |
+
+### Topic Cluster Map
+
+**Cluster: UGC Video Marketing** (pillar page: "The Complete Guide to UGC Video Marketing")
+- Supporting: UGC pricing guides, UGC for ecommerce, UGC for SaaS, UGC creator selection, UGC video briefs, measuring UGC ROI
+
+**Cluster: Video Production for Brands** (pillar page: "Brand Video Production: Strategy to Execution")
+- Supporting: Testimonial video playbook, explainer video best practices, promo video frameworks, scaling video production with AI
+
+**Cluster: Social Media Trends** (pillar page: "Social Media Video Trends Hub")
+- Supporting: Monthly TikTok trend reports (US), monthly Instagram trend reports (US), India-specific trend reports, platform algorithm updates
+
+**Industry-Specific Clusters:**
+- Real estate video marketing (email, social, listing videos)
+- Insurance marketing (Facebook ads, testimonial campaigns)
+- Fintech/investment marketing (trust-building content, compliance-friendly video)
+- SaaS marketing (product demos, customer testimonials, onboarding videos)
+
+### Content Gaps to Fill
+
+**SEO-focused bottom-of-funnel content:**
+- UGC pricing guides ("How much does UGC cost?")
+- ROI calculators and benchmarks ("UGC video ROI calculator")
+- Demo and product tour landing pages
+- Comparison landing pages (Passionbits vs specific competitors)
+
+**Thought leadership:**
+- Annual "State of UGC" report with original data
+- Creator economy trend reports (quarterly)
+- Video marketing benchmark studies
+
+**Expand case studies:**
+- Need coverage across all target industries (currently only 2 published)
+- Add mini case studies (shorter format, faster to produce)
+- Include specific metrics: cost per video, turnaround time, conversion lift
+
+### Content Calendar Rhythm
+
+| Cadence | Content Type | Details |
+|---------|-------------|---------|
+| Weekly | UGC tips and quick guides | Short, actionable posts targeting long-tail keywords |
+| Bi-weekly | Industry guides | Vertical-specific marketing advice tied to video production |
+| Monthly | Trend reports | One per platform per market (TikTok US, Instagram US, TikTok India, Instagram India) |
+| Monthly | Case studies | Customer success stories with concrete metrics |
+| Quarterly | Competitor comparisons | New or updated alternative/vs pages |
+| Quarterly | Thought leadership | State of UGC, creator economy insights, benchmark reports |
+
+### Distribution Strategy
+
+- **Trend reports** → Repurpose into carousel posts (LinkedIn, Instagram), short-form video summaries (TikTok, Reels), and Twitter/X threads
+- **Case studies** → Turn into LinkedIn posts (results-focused), email sequences for nurture campaigns, and sales enablement one-pagers
+- **UGC guides** → Break into tip threads for social, create downloadable PDF versions as lead magnets
+- **Email newsletter** → Weekly trend roundup pulling from all content pillars, segmented by industry vertical
+- **Industry guides** → Syndicate to industry-specific communities, partner with vertical publications
+
+---
+
 ## Related Skills
 
 - **copywriting**: For writing individual content pieces

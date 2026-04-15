@@ -243,6 +243,54 @@ For headlines and CTAs, provide 2-3 options:
 
 ---
 
+## Passionbits Copywriting Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators producing UGC, testimonial, promo, and explainer videos. $49/video, 5-7 day delivery, up to 4 revision rounds. Target audience: enterprise marketers, SaaS teams, and D2C brands.
+
+### Key Pages to Write/Optimize
+
+| Page | Focus |
+|------|-------|
+| **Homepage** | Hero: video production at scale. Sub-hero: 3,000+ creators, speed, affordability |
+| **Pricing** | Per-video pricing, plan comparison, value vs agencies ($5K-$50K) |
+| **Use Case — UGC for Ads** | High-performing ad creative from real creators |
+| **Use Case — Testimonials** | Authentic customer stories on camera |
+| **Use Case — Promo Videos** | Product launches, feature highlights, brand campaigns |
+| **Use Case — Explainers** | Complex product or feature walkthroughs |
+| **Industry — SaaS** | Scale creative for product marketing, onboarding, ads |
+| **Industry — Real Estate** | Property tours, agent testimonials, market updates |
+| **Industry — Insurance** | Trust-building customer stories, explainers |
+| **Industry — D2C** | UGC ads, unboxing, product reviews at scale |
+| **Alternative — vs Content Beta** | Speed, pricing, creator network size |
+| **Alternative — vs Testimonial Hero** | Cost, turnaround, scale advantages |
+| **Alternative — vs Billo** | Quality, revision rounds, enterprise readiness |
+| **Creator Page** | Attract new creators to join the network |
+
+### Messaging Hierarchy
+
+1. **Primary**: "Authentic video content at scale, delivered in days not weeks"
+2. **Speed**: Order in 5 minutes, delivered in 5-7 days
+3. **Cost**: Starting at $49/video (vs $5K-$50K agencies)
+4. **Quality**: 3,000+ vetted creators, up to 4 revision rounds
+5. **Global**: Creators in India, US, UK, SE Asia, 12+ languages
+
+### Copy Tone Guidelines
+
+- **Confident but not salesy** — let the numbers do the heavy lifting
+- **Data-driven** — use specific figures ($49, 3,000+ creators, 5-7 days) over vague claims
+- **Address the marketer's pain** — not enough creative, too slow, too expensive
+- **Professional but approachable** — you are talking to busy marketing leads, not consumers
+
+### Words and Phrases to Use
+
+authentic, creators, real people, real stories, at scale, fast turnaround, global network, vetted, on-brand, performance-ready
+
+### Words and Phrases to Avoid
+
+cheap, outsource, freelancers, stock, mass-produced, automated content, budget, discount, low-cost
+
+---
+
 ## Related Skills
 
 - **copy-editing**: For polishing existing copy (use after your draft)

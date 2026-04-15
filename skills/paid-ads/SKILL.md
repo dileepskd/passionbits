@@ -306,6 +306,68 @@ For tracking, see also: [ga4.md](../../tools/integrations/ga4.md), [segment.md](
 
 ---
 
+## Passionbits Paid Ads Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators. Products include UGC, testimonial, promo, and explainer videos at $49/video with 5-7 day delivery. Primary audiences: enterprise marketers, SaaS, D2C, real estate, and insurance verticals. Key competitors: Content Beta, Testimonial Hero, Billo.
+
+### Campaign Structure by Platform
+
+**Google Ads (Search + Display/YouTube)**
+- Search campaigns targeting: "UGC platform," "video production service," "Content Beta alternative," "UGC creator pricing," "testimonial video service," "cheap UGC videos"
+- Display and YouTube retargeting with creator showcase reels and before/after project examples
+- Brand campaigns on competitor terms (Content Beta, Testimonial Hero, Billo)
+
+**Meta Ads (Facebook + Instagram)**
+- UGC-style video ads showing real creator output (native feel outperforms polished)
+- Before/after creative comparing DIY video vs. Passionbits quality
+- Testimonial ads from existing customers highlighting speed and pricing
+- Creator showcase carousels featuring diverse creator profiles
+- Lookalike audiences built from existing customers (by LTV, not all customers)
+- Retargeting website visitors segmented by page visited (pricing vs. blog vs. homepage)
+
+**LinkedIn Ads**
+- Target marketing managers and CMOs at SaaS and D2C companies (500+ employees)
+- Sponsored content with case studies and ROI data (cost savings vs. in-house production)
+- Lead gen forms for demo requests and free sample video consultations
+- Message ads for high-value enterprise prospects
+
+**TikTok Ads**
+- Showcase actual creator content as ad creative (spark ads with creator partnerships)
+- Trend-aligned creative demonstrating Passionbits videos in real campaign contexts
+- Target social media managers and content creators who need scalable video
+
+### Audience Targeting
+
+| Type | Details |
+|------|---------|
+| **Interest-based** | Video marketing, content marketing, UGC, social media marketing, influencer marketing |
+| **Job title (LinkedIn)** | Marketing Manager, Content Manager, Growth Marketer, CMO, Head of Content, Social Media Manager |
+| **Keywords (Google)** | UGC platform, video production, testimonial video service, Content Beta alternative, cheap UGC, creator marketplace |
+| **Custom audiences** | Website visitors (30/60/90 day), blog readers, pricing page visitors, video viewers (25%/50%/75% completion) |
+
+### Budget Allocation
+
+| Platform | Allocation | Rationale |
+|----------|-----------|-----------|
+| Google Search | 40% | High-intent buyers actively searching for video production solutions |
+| Meta (Facebook/Instagram) | 30% | Awareness and retargeting with strong visual creative |
+| LinkedIn | 20% | B2B targeting for enterprise and SaaS decision-makers |
+| TikTok | 10% | Brand awareness and creator community building |
+
+Adjust based on performance after 4 weeks of data. Shift budget toward lowest CPA channels.
+
+### Key Conversion Events
+
+Track these events across all platforms with consistent naming:
+- **Sign up** — Primary conversion, optimize campaigns toward this
+- **Order first video** — Revenue event, use for ROAS-based bidding once volume allows
+- **Book demo** — High-value lead event for enterprise prospects
+- **View pricing page** — Micro-conversion for retargeting and funnel optimization
+
+Set up these events in GA4 and import into each ad platform for consistent measurement.
+
+---
+
 ## Related Skills
 
 - **ad-creative**: For generating and iterating ad headlines, descriptions, and creative at scale

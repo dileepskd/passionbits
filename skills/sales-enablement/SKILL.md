@@ -349,6 +349,38 @@ For partner sales enablement, see the [tools registry](../../tools/REGISTRY.md):
 
 ---
 
+## Passionbits Sales Enablement Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators producing UGC, testimonial, promo, and explainer videos. Starting at $49/video with 5-7 day delivery and up to 4 revision rounds. Target markets: enterprise marketers, SaaS, D2C, real estate, and insurance. Sales motion is self-serve platform + inside sales for enterprise accounts.
+
+### Key Sales Collateral to Create
+
+- **One-pager**: "Video production at scale" — speed ($49/video), quality (vetted creators), and global reach at a glance
+- **Battle cards**: vs Content Beta, vs Testimonial Hero, vs Billo, vs traditional agencies
+- **ROI calculator**: Agency cost vs Passionbits cost for X videos/month (most agencies charge $2,000-10,000+ per video)
+- **Demo script**: Walk through ordering a video, creator matching, review workflow, revision process
+- **Industry-specific decks**: SaaS video marketing, real estate video tours, D2C UGC ads
+- **Case study one-pagers**: Per industry with before/after metrics (cost per video, turnaround time, output volume)
+
+### Top Objections and Handling
+
+| Objection | Response |
+|-----------|----------|
+| "How's the quality?" | 3,000+ vetted creators, up to 4 revision rounds, approval workflow — you don't pay until you're satisfied |
+| "We already have an agency" | Passionbits complements your agency for scale work — get 10x the output at a fraction of the cost |
+| "UGC won't work for our industry" | Industry-specific examples across SaaS, D2C, real estate, and insurance prove otherwise |
+| "We need specific languages/markets" | 12+ Indian languages and 5+ global languages supported via our creator network |
+
+### Deal-Closing Proof Points
+
+- **3,000+ creators** worldwide — always a match for your brand and audience
+- **$49/video starting price** — 10-50x cheaper than traditional agencies
+- **5-7 day delivery** — weeks faster than agency timelines
+- **Multi-language support** — 12+ Indian and 5+ global languages
+- **Up to 4 revision rounds** — quality guaranteed before you approve
+
+---
+
 ## Related Skills
 
 - **competitor-alternatives**: For public-facing comparison and alternative pages

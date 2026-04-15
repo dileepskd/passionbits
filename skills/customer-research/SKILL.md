@@ -256,6 +256,40 @@ Don't ask all five at once — lead with #1 and #2, then follow up as needed.
 
 ---
 
+## Passionbits Customer Research Context
+
+Passionbits is an AI-powered video production platform (passionbits.io) with 3,000+ global creators. They produce UGC, testimonial, promo, and explainer videos at $49/video with 5-7 day delivery. Target markets: enterprise marketers, SaaS, D2C, real estate, and insurance.
+
+### Key Customer Segments to Research
+
+- **Enterprise marketing teams** — need scalable video content, care about brand consistency and turnaround time
+- **SaaS growth teams** — need product demos, testimonial videos, onboarding content; measure video impact on conversion
+- **D2C brand managers** — need UGC and product videos for ads and social; volume and speed matter most
+- **Real estate marketers** — need property walkthrough and agent profile videos; local market focus
+- **Insurance marketers** — need explainer and trust-building videos; compliance sensitivity
+- **Agency owners** — resell video production to their clients; care about white-labeling, margins, and reliability
+
+### Research Questions Specific to Passionbits
+
+- Why did they choose Passionbits over alternatives (Content Beta, Testimonial Hero, Billo, Insense, freelancers, in-house)?
+- What was their video production workflow before Passionbits? What was broken or painful about it?
+- How do they measure video ROI? (views, conversions, ad ROAS, sales cycle impact, brand lift)
+- Which content types perform best for their use case (UGC, testimonials, promos, explainers)?
+- What markets and languages matter most? (India, US, UK; English, Hindi, regional languages)
+- How important is the $49 price point vs. speed vs. creator quality in their decision?
+- What would make them upgrade to an enterprise plan or increase order volume?
+
+### Data Sources to Mine
+
+- **Platform usage data**: Order history, reorder rates, content type distribution, creator preferences
+- **Creator feedback**: Creator community discussions about brief quality, payment, platform experience
+- **Industry forums and communities**: Reddit (r/ugccreator, r/marketing, r/socialmediamarketing, r/ecommerce), Facebook Groups for UGC creators and brand marketers
+- **Competitor reviews**: G2 and Capterra reviews for Content Beta, Billo, Insense, Testimonial Hero — mine for unmet needs
+- **LinkedIn discussions**: Posts about UGC trends, video marketing ROI, and content production challenges
+- **YouTube comments**: On UGC platform reviews and video marketing tutorials
+
+---
+
 ## Related Skills
 
 | When to hand off | Skill |

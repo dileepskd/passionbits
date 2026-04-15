@@ -247,6 +247,62 @@ Recommended pages to create with priority order based on search volume.
 
 ---
 
+## Passionbits Competitor Context
+
+### Competitor Comparison
+
+| Dimension | Passionbits | Content Beta | Testimonial Hero | Billo | Insense |
+|-----------|------------|--------------|-----------------|-------|---------|
+| **Pricing** | From $49/video | Higher (custom quotes) | Premium ($1K+/video) | $100-300/video | $100-500/video |
+| **Creator Network** | 3,000+ global creators | Smaller, curated | In-house production | US-focused creators | Influencer marketplace |
+| **Content Types** | UGC, testimonial, promo, explainer | Promo, explainer | Testimonial only | UGC only | UGC, influencer content |
+| **Languages** | 12+ Indian, 5+ global | English-primary | English-primary | English-primary | English-primary |
+| **Delivery Time** | 5-7 days | 2-4 weeks | 2-4 weeks | 5-10 days | 7-14 days |
+| **Revision Rounds** | Included | Limited | Limited | 1 round | Varies by creator |
+
+### Pages to Create
+
+**Alternative pages** (high intent, ready-to-switch searchers):
+- `/alternatives/contentbeta` — already live, optimize and refresh
+- `/alternatives/testimonial-hero`
+- `/alternatives/billo`
+- `/alternatives/insense`
+
+**Vs pages** (direct comparison searchers):
+- `/vs/contentbeta` — pair with existing blog post
+- `/vs/testimonial-hero`
+- `/vs/billo`
+- `/vs/insense`
+
+**Listicle/category pages** (top-of-funnel, broader reach):
+- "Best UGC Platforms 2026" — position Passionbits #1
+- "Best Testimonial Video Services" — highlight breadth vs Testimonial Hero
+- "Video Production Platform Comparison" — cover full landscape
+- "Best Video Production for Indian Languages" — own the niche
+
+### Key Differentiators by Competitor
+
+- **vs Content Beta**: Lower price per video, larger creator network, stronger UGC capability, multilingual support (12+ Indian languages). Lead with affordability and scale.
+- **vs Testimonial Hero**: Full content type range (UGC + promo + explainer, not just testimonials), fraction of the cost, faster delivery. Lead with versatility and value.
+- **vs Billo**: Global creator network vs US-only, Indian language support, broader content types beyond UGC. Lead with global reach and multilingual.
+- **vs Insense**: Production-focused platform vs influencer marketplace, predictable pricing, quality-controlled output. Lead with production quality and consistency.
+- **vs Traditional agencies**: 100x cheaper ($49 vs $5K-50K), 5-7 days vs weeks-months, scalable via creator network. Lead with speed and cost.
+- **vs Freelance platforms (Fiverr/Upwork)**: Quality-controlled creator network, consistent output, managed production. Lead with reliability and quality assurance.
+
+### SEO Terms to Target
+
+| Priority | Keywords |
+|----------|----------|
+| High | content beta alternative, testimonial hero alternative, billo alternative |
+| High | best UGC platforms 2026, UGC video platform comparison |
+| Medium | insense alternative, best testimonial video services |
+| Medium | passionbits vs content beta, passionbits vs billo |
+| Medium | video production platform comparison, affordable video production |
+| Long-tail | best UGC platform for Indian languages, multilingual video production |
+| Long-tail | cheap UGC videos India, video production platform India |
+
+---
+
 ## Related Skills
 
 - **programmatic-seo**: For building competitor pages at scale

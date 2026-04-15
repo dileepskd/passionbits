@@ -353,6 +353,45 @@ node tools/clis/google-ads.js reports get --type ad_performance --date-range las
 
 ---
 
+## Passionbits Ad Creative Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators. UGC, testimonial, promo, and explainer videos. Pay-per-video starting at $49 with 5-7 day delivery. Competitors: Content Beta, Testimonial Hero, Billo. Target audience: enterprise marketers, SaaS, D2C, real estate, and insurance.
+
+### Ad Creative Angles
+
+| Angle | Headline Direction |
+|-------|-------------------|
+| Speed | "Get UGC in 5 days, not 5 weeks" |
+| Cost | "Pro video ads from $49. Not $5,000." |
+| Scale | "3,000+ creators. Unlimited creative testing." |
+| Global | "Creators in 15+ languages across 4 continents" |
+| Authenticity | "Real creators. Real stories. Real results." |
+| Comparison | "Still paying agency rates for UGC?" |
+
+### Platform-Specific Strategies
+
+- **Meta Ads** — UGC-style video ads showing before/after of brands using Passionbits. Lead with creator-shot content in feed. Retarget with testimonial clips.
+- **Google Ads** — Target "UGC platform," "video production service," "Content Beta alternative," "affordable UGC." RSA headlines should emphasize price and speed.
+- **LinkedIn Ads** — Target marketing managers and CMOs with B2B messaging. Highlight scale, global creator network, and enterprise use cases.
+- **TikTok Ads** — Showcase actual creator content produced on platform. Native-feeling UGC that demonstrates the product by being the product.
+
+### Ad Creative Types to Produce
+
+1. **Testimonial-style ads** — Passionbits customers sharing results and experience
+2. **Side-by-side comparisons** — Agency vs Passionbits on cost ($5,000 vs $49) and time (5 weeks vs 5 days)
+3. **Platform demo walkthroughs** — Show the ordering flow, creator matching, and delivery
+4. **UGC showcase reels** — Compilation of best creator content across verticals
+
+### Key Metrics to Highlight in Ads
+
+- **3,000+** creators worldwide
+- **$49** starting price per video
+- **5-7 day** delivery turnaround
+- **12+ languages** supported
+- **4 revision rounds** included
+
+---
+
 ## Related Skills
 
 - **paid-ads**: For campaign strategy, targeting, budgets, and optimization

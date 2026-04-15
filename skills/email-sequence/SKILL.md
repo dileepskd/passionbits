@@ -300,6 +300,51 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key email
 
 ---
 
+## Passionbits Email Sequence Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators, delivering UGC, testimonial, promo, and explainer videos at $49/video in 5-7 days. Target audiences include enterprise marketers, SaaS companies, D2C brands, real estate agents, and insurance firms.
+
+### Key Sequences to Build
+
+1. **Welcome sequence** (new signups) -- Introduce the platform, showcase the creator network, deliver a first-order incentive (e.g., 20% off first video). 5-7 emails over 14 days.
+2. **Post-order nurture** (after first video delivery) -- Upsell to a recurring video plan, suggest new content types they haven't tried (e.g., ordered UGC, now try testimonials). 4-6 emails over 3 weeks.
+3. **Re-engagement** (dormant users, 30+ days inactive) -- Highlight new creators, share UGC trend reports, feature customer success stories. 3-4 emails over 2 weeks.
+4. **Industry-specific nurture** -- Tailored flows for real estate marketers (listing videos, agent branding), SaaS companies (product demos, feature launches), and D2C brands (social ads, influencer-style UGC). Triggered by industry tag at signup.
+5. **Blog subscriber nurture** -- Convert blog readers (especially real estate email marketing content) into platform signups. Educational-first, platform mention by email 3-4.
+6. **Creator onboarding** -- For the creator side of the marketplace. Guide new creators through profile setup, first project, quality expectations, and payment info.
+
+### Email Content Themes
+
+- UGC trend roundups and industry benchmarks
+- Creator spotlights and portfolio highlights
+- Industry-specific success stories (real estate, SaaS, D2C)
+- Platform tips (how to write better briefs, pick the right creator)
+- New feature and content type announcements
+- Video marketing best practices and ROI data
+
+### Key CTAs by Sequence
+
+| Sequence | Primary CTA | Secondary CTA |
+|----------|-------------|---------------|
+| Welcome | Order your first video | Explore creator network |
+| Post-order | Start a recurring plan | Try a new content type |
+| Re-engagement | See what's new | Book a demo |
+| Industry nurture | View [industry] case studies | Order a video |
+| Blog subscriber | Sign up free | Download trend report |
+| Creator onboarding | Complete your profile | Submit first deliverable |
+
+### Segmentation Strategy
+
+- **By industry**: SaaS, real estate, D2C, insurance, enterprise marketing teams
+- **By lifecycle stage**: Prospect, first-order customer, repeat customer, churned
+- **By content type interest**: UGC, testimonials, promo videos, explainer videos
+- **By source**: Blog subscriber, paid ad, referral, organic signup
+- **By engagement**: Active (ordered in last 30 days), cooling (30-60 days), dormant (60+ days)
+
+Segment early -- ask for industry and primary video use case during signup or in the welcome sequence to enable personalized flows from the start.
+
+---
+
 ## Related Skills
 
 - **lead-magnets**: For planning lead magnets that feed into nurture sequences

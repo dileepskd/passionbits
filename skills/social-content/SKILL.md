@@ -270,6 +270,64 @@ Instead of guessing, analyze what's working for top creators in your niche:
 
 ---
 
+## Passionbits Social Content Context
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators. The company actively publishes trend reports and case studies on its blog, authored by Roshan Agarwal (co-founder). Target audience: enterprise marketers, SaaS companies, D2C brands.
+
+### Content Pillars
+
+| Pillar | % of Content | Topics |
+|--------|--------------|--------|
+| Social media trends & data | 35% | TikTok/Instagram trend reports by market (US, India) and brand type (consumer, professional/B2B), monthly trend roundups |
+| UGC education & best practices | 25% | How to create UGC, UGC vs traditional video, creator economy insights, UGC briefing guides |
+| Case studies & results | 20% | Brand success stories (Vibiz.ai, Parakeet AI), creator spotlights, campaign breakdowns with metrics |
+| Behind-the-scenes / platform | 10% | How Passionbits works, creator network highlights, new feature announcements, platform updates |
+| Industry-specific content | 10% | Video marketing for SaaS, real estate, insurance, fintech — vertical-specific UGC playbooks |
+
+### Platform-Specific Strategy
+
+**LinkedIn (primary B2B channel):**
+- Target: marketing managers, heads of growth, CMOs at SaaS and enterprise companies
+- Formats: trend data carousels, case study breakdowns, Roshan's founder POV posts
+- Tone: data-driven, authoritative, insight-first
+
+**Instagram & TikTok (showcase channels):**
+- Purpose: showcase UGC examples, highlight creator work, demonstrate before/after results
+- Formats: Reels of top-performing UGC, trend breakdowns as carousels, creator spotlights
+- Tone: visual-first, trend-aware, educational but punchy
+
+**Twitter/X (thought leadership):**
+- Purpose: trend commentary, hot takes on video marketing, engage with marketing community
+- Formats: threads breaking down trend data, quick takes on platform algorithm changes, quote-tweets of brand UGC wins
+- Tone: concise, opinionated, data-backed
+
+### Hook Formulas for Video Marketing
+
+- "This UGC video got 10M views. Here's why it worked:"
+- "Stop making these 5 UGC mistakes:"
+- "We analyzed 500 brand videos. The #1 trend for [month]:"
+- "Why [brand]'s UGC outperformed their studio content by 3x:"
+- "[Platform] just changed its algorithm. Here's what it means for your video strategy:"
+- "3,000 creators. 1 pattern. The UGC format that converts best right now:"
+- "The $0 video that outperformed a $50K ad — here's the breakdown:"
+
+### Repurposing Blog Trend Reports into Social
+
+Passionbits publishes detailed trend reports (TikTok trends US, Instagram trends India, etc.). Repurpose each report across platforms:
+
+1. **LinkedIn carousel** — Pull 5-7 top trends with data points, one trend per slide, end with CTA to full report
+2. **Twitter/X thread** — Lead with the most surprising stat, one trend per tweet, link to blog in final tweet
+3. **Instagram carousel** — Visual-first: screenshot examples of each trend with short captions, save-worthy format
+4. **Short-form video (Reels/TikTok)** — Roshan or a creator walks through top 3 trends in 30-60 seconds, text overlays with key stats
+5. **LinkedIn text post** — Pick the single most contrarian or surprising finding, write a Roshan POV post around it
+
+**Case study repurposing (Vibiz.ai, Parakeet AI, etc.):**
+- LinkedIn: results-first post with specific metrics, tag the brand
+- Twitter/X: thread format — problem, solution, results, takeaway
+- Instagram: before/after carousel showing creative + performance data
+
+---
+
 ## Related Skills
 
 - **copywriting**: For longer-form content that feeds social

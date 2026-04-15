@@ -296,6 +296,41 @@ When creating a lead magnet strategy, provide:
 
 ---
 
+## Passionbits Lead Magnet Ideas
+
+Passionbits is an AI-powered video production platform with 3,000+ global creators, offering UGC, testimonial, promo, and explainer videos at $49/video with 5-7 day delivery. Target audience: enterprise marketers, SaaS, D2C, real estate, and insurance companies.
+
+### High-Value Lead Magnets
+
+| Lead Magnet | Format | Buyer Stage | Notes |
+|-------------|--------|-------------|-------|
+| **2026 UGC Video Playbook** | Ebook/guide | Awareness | Comprehensive guide to UGC strategy, formats, and ROI benchmarks |
+| **Video Brief Template Pack** | Template | Consideration | Ready-to-use templates for UGC, testimonial, promo, and explainer video briefs |
+| **UGC ROI Calculator** | Interactive tool | Decision | Shows cost savings vs agencies — see **free-tool-strategy** |
+| **Monthly Trend Reports** | Gated report | Awareness | Gate the detailed version of existing blog trend content (TikTok/Instagram) |
+| **Video Marketing Checklist by Industry** | Checklist | Consideration | SaaS, real estate, insurance, and D2C specific checklists |
+| **Creator Selection Guide** | Guide | Consideration | How to choose the right UGC creator for your brand |
+| **Video Ad Creative Swipe File** | Swipe file | Consideration | High-performing UGC ad examples with breakdowns |
+
+### Distribution Channels
+
+- **Blog CTAs** — embed relevant lead magnets in existing blog posts (UGC guides, social media trends, industry marketing)
+- **LinkedIn lead gen ads** — target enterprise marketers and SaaS/D2C decision makers
+- **Exit-intent popups on pricing page** — capture visitors who are price-shopping with the ROI Calculator or Template Pack
+- **Content upgrades on trend report posts** — offer the full gated report as an upgrade on free blog trend summaries
+
+### Lead Magnet to Product Bridge
+
+Every lead magnet should naturally lead to an "order your first video" CTA. Connect the value they just received to the next action:
+
+- **Playbook/Guide** → "Put this strategy into action — order your first UGC video from our 3,000+ creators"
+- **Brief Templates** → "Now that you have the brief, order a video starting at $49 with 5-7 day delivery"
+- **ROI Calculator** → "See the savings in action — try one video and compare"
+- **Trend Reports** → "We spotted the trends — our creators can produce them. Order a trending-format video"
+- **Swipe File** → "Love these examples? Get similar results — order a UGC video today"
+
+---
+
 ## Related Skills
 
 - **free-tool-strategy**: For interactive tools as lead magnets (calculators, graders, quizzes)
